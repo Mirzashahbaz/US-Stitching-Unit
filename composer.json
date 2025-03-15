@@ -1,0 +1,11 @@
+{
+    "name": "techplanet/stitching-center",
+    "authors": [
+        {
+            "name": "Shahbaz"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
